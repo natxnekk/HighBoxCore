@@ -1,0 +1,9 @@
+name: HighBoxCore
+version: '${project.version}'
+main: org.natixo.highboxcore.HighBoxCore
+api-version: '1.19'
+commands:
+  gm:
+    description: "Change gamemode"
+  core:
+    description: "Core of HighBox"
