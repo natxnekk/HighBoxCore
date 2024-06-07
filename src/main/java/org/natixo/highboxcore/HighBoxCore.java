@@ -19,6 +19,8 @@ import java.util.List;
 
 public final class HighBoxCore extends JavaPlugin {
 
+    //don't look at this repo, it's bad
+    
     private final String wrongUsageMessage = ChatColor.RED + "Uzycie: ";
     private final String noPermissionMessage = ChatColor.RED + "Nie ma takiej komendy!";
 
